@@ -48,8 +48,8 @@ Used to automatically **rig** the AI-generated models and apply **ready-to-use a
 ### 🔹 Unreal Engine 5 – NPC Integration
 Final NPC characters are imported into **Unreal Engine 5**, ready for use in gameplay, cinematics, or prototyping.
 
-![Unreal Engine NPC](EU1.png)
-![Unreal Engine NPC](EU2.png)
+![Unreal Engine NPC](UE1.png)
+![Unreal Engine NPC](UE2.png)
 
 ---
 
